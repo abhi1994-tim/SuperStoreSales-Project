@@ -1,4 +1,4 @@
-# SuperStoreSales-Project
+# SuperStoreSales-Project PowerBI
 
 # Superstore Sales Dashboard with DAX and Forecasting Prediction
 
